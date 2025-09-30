@@ -1,0 +1,41 @@
+leftnav:
+- identifier: 2df4d788-cfa2-f72e-ff75-6f3cdaeb13c8
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: df93b3d3-5c0e-2179-e7c0-1593cba63d85
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 704190e8-756c-601b-1e7d-b54035f50703
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 685480e6-96f7-3c11-88af-5bb5057d8d98
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: 02c7f260-bda3-4b68-998b-f23593a1651d
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 50
+- identifier: afec655a-84e5-91dc-46a3-3677892e7504
+  name: Homework and Class Preparation
+  pageRef: /pages/assignments/homework-and-class-preparation
+  parent: 685480e6-96f7-3c11-88af-5bb5057d8d98
+  weight: 10
+- identifier: 9c792343-837a-990f-cdb8-7552b6ece75c
+  name: Major Writing Assignments
+  pageRef: /pages/assignments/major-writing-assignments
+  parent: 685480e6-96f7-3c11-88af-5bb5057d8d98
+  weight: 20
+- identifier: 43af068d-ac85-5ac7-9edc-2451cfe2dad6
+  name: 'Revision: A Multi-Step Process'
+  pageRef: /pages/assignments/revision-a-multi-step-process
+  parent: 685480e6-96f7-3c11-88af-5bb5057d8d98
+  weight: 30
+- identifier: cda9baad-6032-0244-e9b7-58110cea9bb7
+  name: Oral Presentations
+  pageRef: /pages/assignments/oral-presentations
+  parent: 685480e6-96f7-3c11-88af-5bb5057d8d98
+  weight: 40
