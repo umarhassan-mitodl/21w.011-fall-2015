@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, readings, grading, publishing your work, course
   policies, and academic integrity.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -136,4 +134,4 @@ Academic integrity is the foundation of all scholarship, because being able to t
 
 As members of this class and the larger scholarly community, you are expected to abide by the norms of academic integrity. Everything you submit must be your own work, written specifically for this class. You may not "recycle" text written before September 2015 (e.g., admissions essay) or turn in work produced for another MIT class this semester. While a good deal of collaboration is encouraged in and out of class, all sources—of ideas as well as words and images, whether from a text, or the internet—must be acknowledged according to the conventions of academic citation. Willful disregard for these conventions—i.e., plagiarism—can result in withdrawal from the course with a grade of F, and / or suspension or expulsion from the Institute.
 
-For more information about policies and practices, please refer to the [MIT Policy on Academic Integrity](http://integrity.mit.edu/). The handbook [_Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students_](http://web.mit.edu/academicintegrity/handbook/handbook.pdf) explains these issues in detail; you are responsible for understanding its contents. In class, we will also work on citing sources and discuss ways to acknowledge them properly. When in doubt about how to find, use or properly cite sources, students should consult the instructor.
+For more information about policies and practices, please refer to the {{% resource_link "132c27ba-dd51-4dda-8c6a-d156ecc5ded6" "MIT Policy on Academic Integrity" %}}. The handbook {{% resource_link "4e649964-94cc-4d2d-a675-c3b5459ddfd7" "_Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students_" %}} explains these issues in detail; you are responsible for understanding its contents. In class, we will also work on citing sources and discuss ways to acknowledge them properly. When in doubt about how to find, use or properly cite sources, students should consult the instructor.

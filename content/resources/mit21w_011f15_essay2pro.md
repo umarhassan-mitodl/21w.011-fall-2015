@@ -4,8 +4,6 @@ description: This resource contains the information regarding review of essay 2 
 file: /courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/ecbbf1612d2eff59ebb82ccc01e78366_MIT21W_011F15_essay2pro.pdf
 file_size: 114228
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

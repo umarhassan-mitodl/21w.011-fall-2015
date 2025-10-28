@@ -4,8 +4,6 @@ description: This resource contains the information regarding some logical falla
 file: /courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/b8a4284061398fdc0375c1dfd1049c62_MIT21W_011F15_SOME.pdf
 file_size: 134262
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This resource contains the information regarding grant proposal ide
 file: /courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/234a373a96c7c0ed0b561c248c1c195b_MIT21W_011F15_grantideas.pdf
 file_size: 354708
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

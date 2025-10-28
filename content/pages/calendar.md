@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the schedule of course topics, activities, and
   assignment due dates.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -141,9 +139,9 @@ Proposal for Essay 2 (first version) due by email before the next class.
 {{< tdopen >}}
 
 
-Library Session in the [Digital Instruction Resource Center](http://libraries.mit.edu/dirc/)
+Library Session in the {{% resource_link "7135b02e-6ab5-4d7a-924d-2b2de0e22de0" "Digital Instruction Resource Center" %}}
 
-*   [MIT Library Guide](http://libguides.mit.edu/21w011)
+*   {{% resource_link "e7eb48e5-8f1f-4942-bb77-8f080dfd21be" "MIT Library Guide" %}}
 
 Peer Review of Essay 2 Proposals
 

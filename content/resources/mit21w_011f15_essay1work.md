@@ -4,8 +4,6 @@ description: This resource contains the information regarding essay 1 workshop I
 file: /courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/c5c85b95fddfecdbf83d0e9a3d5dcc28_MIT21W_011F15_essay1work.pdf
 file_size: 112300
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

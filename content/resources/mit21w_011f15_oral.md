@@ -5,8 +5,6 @@ description: This resource contains the information regarding oral presentation 
 file: /courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/2974fb0a8514f2a08b96293df7ed552b_MIT21W_011F15_oral.pdf
 file_size: 120997
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

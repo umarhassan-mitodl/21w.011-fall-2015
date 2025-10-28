@@ -5,8 +5,6 @@ description: This resource contains the information regarding the use of Outside
 file: /courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/62acd5871eb25cc2a1c5a29406a19f99_MIT21W_011F15_Narrative.pdf
 file_size: 114885
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

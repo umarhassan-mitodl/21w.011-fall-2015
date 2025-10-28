@@ -5,8 +5,6 @@ description: This resource contains the information regarding exercise on resear
 file: /courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/e1e563547129d252df029d1cbf55d945_MIT21W_011F15_research.pdf
 file_size: 227189
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

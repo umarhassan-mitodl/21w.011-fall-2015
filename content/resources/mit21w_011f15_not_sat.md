@@ -5,8 +5,6 @@ description: "This resource contains the information regarding not saturday\u201
 file: /courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/e39e441979bf919b3778ade11b9e9b86_MIT21W_011F15_NOT_SAT.pdf
 file_size: 107723
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

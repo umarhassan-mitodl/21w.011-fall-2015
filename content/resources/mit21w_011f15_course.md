@@ -4,8 +4,6 @@ description: This resource contains the information regarding course information
 file: /courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/c0b1d34a01604597f926405f1c9da8aa_MIT21W_011F15_Course.pdf
 file_size: 86140
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This resource contains the information regarding why write?.
 file: /courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/4354106a4599e8e9a344b5df7575befb_MIT21W_011F15_Why.pdf
 file_size: 76809
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource contains the information regarding some past topics f
 file: /courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/e647c3adbfe4e0e9544b8f333c53a83b_MIT21W_011F15_past.pdf
 file_size: 97002
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

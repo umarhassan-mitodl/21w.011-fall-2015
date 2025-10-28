@@ -5,8 +5,6 @@ description: 'This resource contains the information regarding assignment 3: gra
 file: /courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/3c2be3d607f21a15f77d65a50d09ba52_MIT21W_011F15_grant.pdf
 file_size: 121672
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

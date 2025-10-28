@@ -5,8 +5,6 @@ description: This resource contains the information regarding example of notes o
 file: /courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/bc3fcbc80d8e065a8a50cef6dfb2da4d_MIT21W_011F15_notes.pdf
 file_size: 334678
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

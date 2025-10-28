@@ -4,8 +4,6 @@ description: This resource contains the information regarding final reflection l
 file: /courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/9df1f19d8b55cb67f576907801818ccd_MIT21W_011F15_final.pdf
 file_size: 80479
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
