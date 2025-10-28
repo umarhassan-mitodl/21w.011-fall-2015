@@ -3,8 +3,6 @@ content_type: page
 description: This section provides the homework assignments for the course along with
   the schedule of course topics, readings, and key dates.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -53,11 +51,11 @@ Peer Review Training. Sample Student Essay-in-progress: {{% resource_link "e39e4
 
 {{< tdclose >}}{{< tdopen >}}
 
-Kennedy, John F. "[Inaugural Address](http://www.americanrhetoric.com/speeches/jfkinaugural.htm)." January 20, 1961.
+Kennedy, John F. "{{% resource_link "99e9f506-f947-4a00-9748-63e5009207b5" "Inaugural Address" %}}." January 20, 1961.
 
-King, Martin Luther. "[I Have a Dream](http://www.americanrhetoric.com/speeches/mlkihaveadream.htm)." 20 August, 1963.
+King, Martin Luther. "{{% resource_link "223fd6f7-3d26-45d9-a221-355a0321a475" "I Have a Dream" %}}." 20 August, 1963.
 
-MIT TechTV. "[No One Writes Alone: Peer Review in the Classroom, A Guide For Students](http://video.mit.edu/watch/no-one-writes-alone-peer-review-in-the-classroom-a-guide-for-students-8336/)."
+MIT TechTV. "{{% resource_link "458bd8d1-1181-4d48-8d5e-186577e1aab2" "No One Writes Alone: Peer Review in the Classroom, A Guide For Students" %}}."
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -79,9 +77,9 @@ Peer Review: Exercise 1
 
 Edelman, Marian Wright. "A Family Legacy." In *The Measure of our Success: A Letter to my Children and Yours*. William Morrow Paperbacks, 1993. ISBN: 9780060975463.
 
-Shepherd, Susan. "[Daughters Without Borders](http://web.mit.edu/angles2008/angles_Susan_Shepherd.html)." *Angles*, 2008.
+Shepherd, Susan. "{{% resource_link "1c17e230-e5e4-453e-a450-8243dda5ec25" "Daughters Without Borders" %}}." *Angles*, 2008.
 
-Gregg, Joseph. "[Que Será, Será](http://web.mit.edu/angles2008/angles_Joseph_Gregg.html)." *Angles*, 2008.
+Gregg, Joseph. "{{% resource_link "632d7e5e-a69b-4e3e-91d8-fd3dfe0cbe68" "Que Será, Será" %}}." *Angles*, 2008.
 
 Lee, Hailey. "Memoirs of a Modern Day Abolitionist." *Angles*, 2012.
 
@@ -105,19 +103,19 @@ Letters to workshop students due in class.
 Representing Social Issues in Historical Context: Poverty and Wealth in the Industrial Era
 {{< tdclose >}}{{< tdopen >}}
 
-Dickens, Charles. "[Stave 1: Marley's Ghost](http://www.stormfax.com/1dickens.htm)." In *A Christmas Carol*. 1843.
+Dickens, Charles. "{{% resource_link "b814cf21-e966-432e-871a-9ca73805f34f" "Stave 1: Marley's Ghost" %}}." In *A Christmas Carol*. 1843.
 
 Carnegie, Andrew. {{% resource_link "840e7879-771a-4a19-4ccd-8949bd9ba9af" "\"Wealth.\" (PDF)" %}} *The North American Review* (1889): 653–64.
 
-Goldstein, Jacob. "[Is It Nuts to Give to the Poor Without Strings Attached?](http://www.nytimes.com/2013/08/18/magazine/is-it-nuts-to-give-to-the-poor-without-strings-attached.html?_r=1)" *The New York Times Magazine*. August 13, 2013.
+Goldstein, Jacob. "{{% resource_link "ac95dbae-dc65-4c2a-b0a7-722755e0b7cf" "Is It Nuts to Give to the Poor Without Strings Attached?" %}}" *The New York Times Magazine*. August 13, 2013.
 
 Visit these websites:
 
-- [Bill & Melinda Gates Foundation](http://www.gatesfoundation.org/)
-- [Carnegie Corporation](https://www.carnegie.org/)
-- [Centre for Effective Altruism](https://www.centreforeffectivealtruism.org/)
-- [Grameen Foundation](http://www.grameenfoundation.org/)
-- [Kiva](http://www.kiva.org/)
+- {{% resource_link "fccfc732-c61d-457d-9024-25378559e098" "Bill & Melinda Gates Foundation" %}}
+- {{% resource_link "325c39af-2040-45e8-9274-03aa5eadf553" "Carnegie Corporation" %}}
+- {{% resource_link "c8961760-0da6-466a-82dd-7f0e54324ffd" "Centre for Effective Altruism" %}}
+- {{% resource_link "57a478f0-fc4c-4d48-9fae-2398264a91b5" "Grameen Foundation" %}}
+- {{% resource_link "0ac6f9f5-30bd-4b7a-862f-a101b5aa1825" "Kiva" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -139,15 +137,15 @@ Oral presentation preferences due by email before the next class.
 Documenting Social Issues: Poverty in the Industrial Era
 {{< tdclose >}}{{< tdopen >}}
 
-Sontag, Susan. [Excerpt from On *Photography*](http://www.susansontag.com/SusanSontag/books/onPhotographyExerpt.shtml). Macmillan, 1977.
+Sontag, Susan. {{% resource_link "9db48b7b-1125-4a97-923e-c46d664c1abd" "Excerpt from On *Photography*" %}}. Macmillan, 1977.
 
-[The History Place: Child Labor in America 1908–1912. Photographs of Lewis H. Hine](http://www.historyplace.com/unitedstates/childlabor/).
+{{% resource_link "7a459ab9-8ecf-4c4c-b2cc-8e5b4acd190d" "The History Place: Child Labor in America 1908–1912. Photographs of Lewis H. Hine" %}}.
 
-[Photographs of Jacob Riis](http://xroads.virginia.edu/~ma01/davis/photography/images/riisphotos/slideshow1.html).
+{{% resource_link "973448d8-1d4b-4d60-b859-225dee06edeb" "Photographs of Jacob Riis" %}}.
 
-[Dorothea Lange's "Migrant Mother" Photographs in the Farm Security Administration Collection: An Overview](http://www.loc.gov/rr/print/list/128_migm.html).
+{{% resource_link "1eacc8a1-d42b-433b-8327-76314dc59ddf" "Dorothea Lange's \"Migrant Mother\" Photographs in the Farm Security Administration Collection: An Overview" %}}.
 
-Film excerpt from [*America and Lewis Hine*](http://www.imdb.com/title/tt0128927/?ref_=fn_al_tt_1). Directed by Nina Rosenblum. Cinema Guild, Color, 60 min. 1984.
+Film excerpt from {{% resource_link "5972b2e1-b749-41ad-bb76-ee78f7d49c41" "*America and Lewis Hine*" %}}. Directed by Nina Rosenblum. Cinema Guild, Color, 60 min. 1984.
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -163,9 +161,9 @@ Underline five quotations from Sontag for in-class discussion.
 Writers Engage with Contemporary Social Issues: Homelessness: Contrasting Perspectives
 {{< tdclose >}}{{< tdopen >}}
 
-Kozol, Jonathan. "[Are the Homeless Crazy?](http://akashessays.blogspot.in/2008/01/critique-for-jkozols-essay.html)" *Harper's Essay*, 1988.
+Kozol, Jonathan. "{{% resource_link "b55c017c-4c2b-40ee-81eb-3642924c17f9" "Are the Homeless Crazy?" %}}" *Harper's Essay*, 1988.
 
-Marin, Peter. "[Helping and Hating the Homeless: The Struggle at the Margins of America](https://msu.edu/~jdowell/135/PMarin.html)." *Harper's* 274, no. 1640 (1987): 39–49.
+Marin, Peter. "{{% resource_link "96c75fbb-ffc1-49e7-b75a-b5c721f6c117" "Helping and Hating the Homeless: The Struggle at the Margins of America" %}}." *Harper's* 274, no. 1640 (1987): 39–49.
 
 {{% resource_link "62acd587-1eb2-5cc2-a1c5-a29406a19f99" "The Use of Outside Sources in Narrative Essays (PDF)" %}}
 
@@ -181,7 +179,7 @@ Proposal for Essay 2 (first version) due by email before the next class.
 8
 {{< tdclose >}}{{< tdopen >}}
 
-Library Session in the [Digital Instruction](http://libraries.mit.edu/dirc/) [Resource Center](http://libraries.mit.edu/dirc/)
+Library Session in the {{% resource_link "7135b02e-6ab5-4d7a-924d-2b2de0e22de0" "Digital Instruction" %}} {{% resource_link "7135b02e-6ab5-4d7a-924d-2b2de0e22de0" "Resource Center" %}}
 
 Peer Review of Essay 2 Proposals
 
@@ -200,7 +198,7 @@ Low Wage Jobs: Pathways Out of Poverty?
 Peer Review of Essay 2 Proposals
 
 {{< tdclose >}}{{< tdopen >}}
-Ehrenreich, Barbara. "[Nickel-and-dimed: On (not) Getting by in America](http://www.wesjones.com/ehrenreich.htm)." *Harpers* 298, January 1999, 37–52.
+Ehrenreich, Barbara. "{{% resource_link "573b7fdb-65fd-4162-9cd1-f7fbfbce1516" "Nickel-and-dimed: On (not) Getting by in America" %}}." *Harpers* 298, January 1999, 37–52.
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link "5e2b9cd7-c1e7-3a9b-d079-a34a60694462" "Homework 6: Questions on excerpt, Barbara Ehrenreich - Nickel and Dimed (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
@@ -211,9 +209,9 @@ Revision of Essay 1 due by email before the next class.
 Low Wage Jobs: Pathways Out of Poverty? (cont.)
 {{< tdclose >}}{{< tdopen >}}
 
-Yesilevsky, Anna. "[The Case Against Sweatshops](https://www.thefreelibrary.com/The+case+against+sweatshops.-a0116733752)." *The Humanist* 64, no. 3 (2004): 20–21.
+Yesilevsky, Anna. "{{% resource_link "79267546-f7bb-4b53-afc2-edc567555007" "The Case Against Sweatshops" %}}." *The Humanist* 64, no. 3 (2004): 20–21.
 
-Kristof, Nicholas. "[Where Sweatshops Are a Dream](http://www.nytimes.com/2009/01/15/opinion/15kristof.html)." *The New York Times*, January 14, 2009.
+Kristof, Nicholas. "{{% resource_link "2469f6f4-1c8c-4a64-a9d0-e531c8905eb5" "Where Sweatshops Are a Dream" %}}." *The New York Times*, January 14, 2009.
 
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link "61f15d95-b031-54b9-5bca-c65800d5b611" "Homework 7: Questions on Kristof (PDF)" %}}
@@ -225,9 +223,9 @@ Revised Proposal of Essay 2 due by email before the next class.
 Living in an Aging Society: Benefits and Challenges
 {{< tdclose >}}{{< tdopen >}}
 
-Emanuel, E. J. "[Why I Hope to Die at 75](http://www.theatlantic.com/features/archive/2014/09/why-i-hope-to-die-at-75/379329/)." *The Atlantic*, October 2014.
+Emanuel, E. J. "{{% resource_link "ba9d1e2e-56b1-4517-87ce-a2f24e47acad" "Why I Hope to Die at 75" %}}." *The Atlantic*, October 2014.
 
-Holland, Jimmie, and Mindy Greenstein. "[The Atlantic is Wrong about Aging: Why our Anti-elderly Bias Needs to Change](http://www.salon.com/2014/09/27/the_atlantic_is_wrong_about_aging_why_our_anti_elderly_bias_needs_to_change/)." *Salon*, September 28, 2014.
+Holland, Jimmie, and Mindy Greenstein. "{{% resource_link "ad50d589-6571-411b-b3fc-47b2ee0bd7e1" "The Atlantic is Wrong about Aging: Why our Anti-elderly Bias Needs to Change" %}}." *Salon*, September 28, 2014.
 
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link "bf228d15-3f90-40d3-6362-ad540a0e03b2" "Homework 8: Questions on Emanuel, Holland and Greenstein (PDF)" %}}
@@ -238,7 +236,7 @@ Holland, Jimmie, and Mindy Greenstein. "[The Atlantic is Wrong about Aging: Why 
 {{< tdclose >}}{{< tdopen >}}
 Writers Engage with Contemporary Issues: The Politics of Food
 {{< tdclose >}}{{< tdopen >}}
-Kenner, Robert, and Eric Schlosser. [*Food, Inc*.](https://www.imdb.com/title/tt1286537/) 2008.
+Kenner, Robert, and Eric Schlosser. {{% resource_link "c161e2d6-ce67-404e-9f3b-4e548f5e781e" "*Food, Inc*." %}} 2008.
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link "4fb4365d-90d5-9071-c773-2a2892fe6aa6" "Homework 9: Questions on Food, Inc. (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
@@ -249,9 +247,9 @@ Outline of Essay 2 and History / Background sections due by email before the nex
 Writers Engage with Contemporary Issues: The Politics of Food (cont.)
 {{< tdclose >}}{{< tdopen >}}
 
-Pollan, Michael. "[An Animal's Place](http://michaelpollan.com/articles-archive/an-animals-place/)," *The New York Times*, November 10, 2002.
+Pollan, Michael. "{{% resource_link "dbd1339f-49f9-43ef-9dfa-a43b2b015bcf" "An Animal's Place" %}}," *The New York Times*, November 10, 2002.
 
-Singer, Peter. "[All Animals are Equal](https://books.google.com/books?id=YKQmqFfrT5EC&lpg=PA169&ots=kfzFEmomyu&lr&pg=PA169#v=onepage&q&f=false)." *Philosophical Exchange* 1, no. 5 (1974): 103–16.
+Singer, Peter. "{{% resource_link "b085969c-2837-4d4b-b05f-a39de0ea21a6" "All Animals are Equal" %}}." *Philosophical Exchange* 1, no. 5 (1974): 103–16.
 
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link "d61bc1d1-7323-84dc-12d9-7c5177b5fc46" "Homework 10: Questions on the ethics of eating meat (PDF)" %}}
@@ -262,7 +260,7 @@ Singer, Peter. "[All Animals are Equal](https://books.google.com/books?id=YKQmqF
 {{< tdclose >}}{{< tdopen >}}
 Writers Explore Contemporary Issues: Mental Health and Illness
 {{< tdclose >}}{{< tdopen >}}
-Excerpt of Kaysen, Susanna. "[Toward a Topography of the Parallel Universe](https://www.bookbrowse.com/excerpts/index.cfm?book_number=241)." In *Girl, Interrupted*. Vintage, 1994. ISBN: 9780679746041.
+Excerpt of Kaysen, Susanna. "{{% resource_link "d7ac5e8a-3910-4d7f-9659-c48fd5afa071" "Toward a Topography of the Parallel Universe" %}}." In *Girl, Interrupted*. Vintage, 1994. ISBN: 9780679746041.
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link "4fab06c1-0085-72f8-4621-43378f8851ea" "Homework 11: Questions on Girl, Interrupted (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
@@ -293,11 +291,11 @@ Workshop: Essay 2
 Living in the Age of Mass Media: The Influence of Advertising
 {{< tdclose >}}{{< tdopen >}}
 
-Jhally, Sut. ["Image-based Culture." (PDF)](http://sites.psu.edu/comm292/wp-content/uploads/sites/5180/2014/08/Jhally-Image_Based_Culture_Excerpt.pdf) *Gender, race, and class in media: A Text-reader*. Sage, 1995.
+Jhally, Sut. {{% resource_link "257e3460-8f01-4405-b1b7-1ee5a35eb199" "\"Image-based Culture.\" (PDF)" %}} *Gender, race, and class in media: A Text-reader*. Sage, 1995.
 
-Kilbourne, Jean. "[Beauty…and the Beast of Advertising](https://www.sweetstudy.com/sites/default/files/qx/17/02/05/05/kilbourne_beauty_and_the_beast_of_advertising1.pdf)." *Media & Values* 49 (1990).
+Kilbourne, Jean. "{{% resource_link "b8d7842c-d42e-4eaf-b862-3c805277bbeb" "Beauty…and the Beast of Advertising" %}}." *Media & Values* 49 (1990).
 
-[*Consuming Kids: The Commercialization of Childhood*](http://www.imdb.com/title/tt1337599/). Directed by Adriana Barbaro, and Jeremy Earp. Color, 66 min. 2008. (Preview available from [Media Education Foundation](http://www.mediaed.org/cgi-bin/commerce.cgi?preadd=action&key=134).)
+{{% resource_link "05c96e11-7c91-44c7-829c-7c36c7ec75c1" "*Consuming Kids: The Commercialization of Childhood*" %}}. Directed by Adriana Barbaro, and Jeremy Earp. Color, 66 min. 2008. (Preview available from {{% resource_link "adffeb80-2395-4ea0-9f07-ed1c2f0c161c" "Media Education Foundation" %}}.)
 
 {{< tdclose >}}{{< tdopen >}}
  
